@@ -1,5 +1,7 @@
 # Smutbase Database
 
+![status](https://badgen.net/badge/Status/In%20Progress/yellow) [![view](https://hits.dwyl.com/nsfwhelp/smutbase-database.svg)](https://hits.dwyl.com/nsfwhelp/smutbase-database)
+
 This is a list of all(?) models and users from [smutba.se](https://smutba.se)\
 Done by a quick scraping tool I made\
 **If you are for whatever reason interested in the code for the tool(its pretty basic), reach out to me here, or my email: <a href="mailto:nsfwhelp@proton.me">nsfwhelp@proton.me</a>**
